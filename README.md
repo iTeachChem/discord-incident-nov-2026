@@ -6,6 +6,8 @@ On the night of **15 November 2026**, someone took over one of our bots and wrec
 
 **Rejoin the server:** https://discord.gg/bNpAqNhAZ
 
+**Doubts website:** https://iteachchem.github.io/iteachchem-doubts/ lists all 4,416 doubts from the server, by subject and chapter. Its answers lived in the Discord threads, so the website will only work fully again once the messages are restored.
+
 ---
 
 ## What happened
