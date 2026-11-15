@@ -30,8 +30,8 @@ We still don't know how the token leaked. We checked the full history of every p
 
 | | |
 |---|---|
-| Username | `trtrtrtrturkiye` |
-| Display name | 🇹🇷 (a Turkish flag emoji), with the server tag "TÜRK" |
+| Username | `trtrtrtrtrturkiye` |
+| Display name | 🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷 (a row of Turkish flag emojis), with the server tag "TÜRK" |
 | Discord user ID | `698549964820971547` |
 | Account created | April 2020 |
 
