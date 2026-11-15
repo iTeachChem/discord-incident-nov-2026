@@ -35,7 +35,7 @@ We still don't know how the token leaked. We checked the full history of every p
 | Discord user ID | `698549964820971547` |
 | Account created | April 2020 |
 
-He's banned from iTeachChem and has been reported to Discord Trust & Safety. **If you run a Discord server, please ban this ID in advance.** If he DMs you, don't click any links or download anything. Block and report him.
+He's banned from iTeachChem and has been reported to Discord (ticket #69948190). **If you run a Discord server, please ban this ID in advance.** If he DMs you, don't click any links or download anything. Block and report him.
 
 ## What we've fixed
 
@@ -75,7 +75,7 @@ The scripts we used are in [`scripts/`](scripts/). Other server admins are welco
 
 ## How you can help
 
-**Discord:** we've filed a Trust & Safety report. If anyone at Discord reads this, we'd be very grateful for help **restoring the deleted channel messages** for server `1226379612238385242`. It is a non-commercial student community, and the deletions were done with a stolen bot token on 15 November 2026 between 10:14 and 10:35 PM IST.
+**Discord:** we've filed a support request (ticket #69948190) with the full audit log attached. If anyone at Discord reads this, we'd be very grateful for help **restoring the deleted channel messages** for server `1226379612238385242`. It is a non-commercial student community, and the deletions were done with a stolen bot token on 15 November 2026 between 10:14 and 10:35 PM IST.
 
 **Members:** please request your own Discord data download (User Settings → Data & Privacy → Request Data). When it arrives, share the `Messages` folders for iTeachChem channels with a mod. Put enough of these together and we can rebuild a lot of the old doubt threads.
 
